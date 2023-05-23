@@ -60,6 +60,13 @@ export default function() {
                 title: "Cybersecurity",
                 text:
                   "We ensure end to end security of your digital business during the full development and production lifecycle."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Gestión y entrega de soluciones",
+                text:
+                  "We develop, lead and manage business transformation projects, based on the implementation of cutting-edge technological solutions"
               }
             ]
           },
@@ -138,6 +145,8 @@ export default function() {
           executive_team: {
             title_1: "Our",
             title_2: "Executive team",
+            title_3: "",
+            title_4: "",
             members: [
               {
                 image: "/images/home/team/member_adrian.png",
@@ -882,7 +891,7 @@ export default function() {
           contact: "Contact",
           rrhh_1: "Work with us",
           rrhh_2: "Send us your CV to",
-          rights: "All rights reserved © InAdvance Consulting Group 2021"
+          rights: "All rights reserved © InAdvance Consulting Group 2023"
         }
       },
       // SPANISH TEXTS
@@ -943,6 +952,13 @@ export default function() {
                 title: "Ciberseguridad",
                 text:
                   "Aseguramos los activos de información y tecnología en el ámbito de los nuevos negocios digitales."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Gestión y entrega de soluciones",
+                text:
+                  "Desarrollamos, lideramos y gestionamos proyectos de transformaciones de negocio, a partir de la implementación de soluciones tecnológicas de vanguardia."
               }
             ]
           },
@@ -1021,6 +1037,9 @@ export default function() {
           executive_team: {
             title_1: "Nuestro",
             title_2: "equipo ejecutivo",
+            title_3:
+              "Contamos con un equipo multi-disciplinario de +50 profesionales en la región, liderado por ",
+            title_4: "nuestro equipo ejecutivo:",
             members: [
               {
                 image: "/images/home/team/member_adrian.png",
@@ -1781,7 +1800,7 @@ export default function() {
           rrhh_1: "Trabaja con nosotros",
           rrhh_2: "Envíanos tu CV a:",
           rights:
-            "Todos los derechos reservados © InAdvance Consulting Group 2021"
+            "Todos los derechos reservados © InAdvance Consulting Group 2023"
         }
       }
     }

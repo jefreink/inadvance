@@ -191,7 +191,7 @@
                 >
                   {{ $store.getters["lang/texts"]["navbar"]["why-us"] }}
                 </div>
-                <div
+                <!-- <div
                   :class="{
                     'text-sticky items-navbar-scroll': scrollPosition > 100
                   }"
@@ -199,7 +199,7 @@
                   @click="moveToPage('/', '#they-trust-us')"
                 >
                   {{ $store.getters["lang/texts"]["navbar"]["they-trust-us"] }}
-                </div>
+                </div> -->
                 <div
                   :class="{
                     'text-sticky items-navbar-scroll': scrollPosition > 100
