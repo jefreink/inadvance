@@ -924,7 +924,7 @@ export default function() {
             title_1: "Qué ",
             title_2: "hacemos",
             text_1:
-              "A partir de la innovación y la transformación de los servicios de TII, <b class='mx-1 text-black font-primary'> ayudamos a las empresas a transformarse en negocios digitales eficientes, ágiles y robustos.</b> Ayudamos a las compañías e instituciones con una amplia gama de servicios desde la estrategia hasta la implementación:",
+              "A partir de la innovación y la transformación de los servicios de TI, <b class='mx-1 text-black font-primary'> ayudamos a las empresas a transformarse en negocios digitales eficientes, ágiles y robustos.</b> Ayudamos a las compañías e instituciones con una amplia gama de servicios desde la estrategia hasta la implementación:",
             items: [
               {
                 icon: "/icons/cog_icon.svg",
