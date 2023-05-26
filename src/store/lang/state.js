@@ -64,7 +64,7 @@ export default function() {
               {
                 icon: "/icons/tsd_icon.png",
                 delay: 1400,
-                title: "Gestión y entrega de soluciones",
+                title: "Technology Solutions Delivery",
                 text:
                   "We develop, lead and manage business transformation projects, based on the implementation of cutting-edge technological solutions"
               }
@@ -143,8 +143,9 @@ export default function() {
             ]
           },
           executive_team: {
-            title_1: "Our",
-            title_2: "Executive team",
+            title_1:
+              "We have a multi-disciplinary team of +50 professionals in the region, led by",
+            title_2: "our executive team:",
             title_3: "",
             title_4: "",
             members: [
@@ -1035,11 +1036,9 @@ export default function() {
             ]
           },
           executive_team: {
-            title_1: "Nuestro",
-            title_2: "equipo ejecutivo",
-            title_3:
-              "Contamos con un equipo multi-disciplinario de +50 profesionales en la región, liderado por ",
-            title_4: "nuestro equipo ejecutivo:",
+            title_1:
+              "Contamos con un equipo multi-disciplinario de +50 profesionales en la región, liderado por",
+            title_2: "nuestro equipo ejecutivo:",
             members: [
               {
                 image: "/images/home/team/member_adrian.png",
@@ -1347,7 +1346,7 @@ export default function() {
             },
             {
               reverse: true,
-              title: "Gestión y entrega de solcuiones",
+              title: "Gestión y entrega de soluciones",
               img_url: "/images/what_we_do/items_tsd.png",
               icon_url: "/icons/tsd_icon.png",
               description:
