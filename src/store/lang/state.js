@@ -957,7 +957,7 @@ export default function() {
               {
                 icon: "/icons/tsd_icon.png",
                 delay: 1400,
-                title: "Gestión y entrega de soluciones",
+                title: "Gestión y Entrega de Soluciones",
                 text:
                   "Desarrollamos, lideramos y gestionamos proyectos de transformaciones de negocio, a partir de la implementación de soluciones tecnológicas de vanguardia."
               }
@@ -1346,7 +1346,7 @@ export default function() {
             },
             {
               reverse: true,
-              title: "Gestión y entrega de soluciones",
+              title: "Gestión y Entrega de Soluciones",
               img_url: "/images/what_we_do/items_tsd.png",
               icon_url: "/icons/tsd_icon.png",
               description:
