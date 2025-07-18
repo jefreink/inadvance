@@ -1,4 +1,4 @@
-export default function() {
+export default function () {
   return {
     selected: "es",
     items: {
@@ -60,7 +60,35 @@ export default function() {
                 title: "Cybersecurity",
                 text:
                   "We ensure end to end security of your digital business during the full development and production lifecycle."
-              }
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Technology Solutions Delivery",
+                text:
+                  "We develop, lead and manage business transformation projects, based on the implementation of cutting-edge technological solutions"
+              },
+                            {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "IA + Data & Analítica",
+                text:
+                  "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Eficiencia Operativa & Gestión del Cambio",
+                text:
+                  "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambio, desde el rediseño hasta la implementación, acelerando la adopción de un nuevo mindset para enfrentar los desafíos del entorno."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Soluciones de Industria",
+                text:
+                  "Lideramos la implementación de soluciones world-class de industria para diferentes verticales de negocio."
+              },
             ]
           },
           "why-us": {
@@ -136,8 +164,11 @@ export default function() {
             ]
           },
           executive_team: {
-            title_1: "Our",
-            title_2: "Executive team",
+            title_1:
+              "We have a multi-disciplinary team of +50 professionals in the region, led by",
+            title_2: "our executive team:",
+            title_3: "",
+            title_4: "",
             members: [
               {
                 image: "/images/home/team/member_adrian.png",
@@ -442,7 +473,54 @@ export default function() {
                 "QA of Transformation project (QA Automation, Functional QA, Agile and Traditional models)​",
                 "Implementation of Agile, Bimodal, CloudOps and DevSecOps Models"
               ]
-            }
+            },
+            {
+              reverse: false,
+              title: "IA + Data Analytics",
+              img_url: "/images/what_we_do/items_ai.jpg",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "We drive organizational transformation through the strategic use of data and artificial intelligence. We combine advanced capabilities in AI, analytics, and data management to accelerate decision-making, improve processes, and enable new ways of creating value.",
+              bullets: [
+                "Design of architectures for Generative AI, Machine Learning, Analytics, and Data Engineering",
+                "Definition and implementation of the organization’s Data Governance model",
+                "AI and data adoption strategies to enable digital transformation",
+                "Executive capability development to identify opportunities and lead with AI",
+                "Design and execution of Proofs of Concept (PoCs) and projects in AI, analytics, and data management",
+                "Specialized development cells focused on Artificial Intelligence solutions",
+                "Strategic consulting to ensure responsible and impactful AI adoption across the organization"
+              ]
+            },
+            {
+              reverse: true,
+              title: "Operational Efficiency & Change Management",
+              img_url: "/images/what_we_do/items_eficiencia.png",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "As a strategic partner in organizational transformation, we apply a systems-thinking approach to change initiatives—covering everything from process redesign to the implementation of practices that foster the adoption of a forward-looking mindset capable of addressing evolving market challenges.",
+              bullets: [
+                "Operating models, governance frameworks, and organizational cultures are redefined with a focus on agility and adaptability",
+                "Adaptive capabilities are strengthened through leadership development, ensuring that transformation efforts are sustainable and long-lasting",
+                "Transformation Offices are established to effectively manage project portfolios aimed at business reinvention and strategic alignment",
+                "Process redesign is driven by the integration of new technologies, enabling greater efficiency and accelerating digital transformation",
+                "Organizational capabilities and competencies are developed to drive performance and ensure the successful delivery of strategic objectives"
+              ]
+            },
+            {
+              reverse: false,
+              title: "Industry Solutions",
+              img_url: "/images/what_we_do/items_soluciones.png",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "We lead the implementation of world-class industry solutions across diverse business verticals",
+              bullets: [
+                "Software selection and gap analysis",
+                "Industry-specific solutions projects implementation",
+                "Ongoing support, maintenance, and continuous enhancement of deployed systems",
+                "Training and talent development programs to accelerate solution adoption process",
+                "Staff augmentation"
+              ]
+            },
           ]
         },
         "success-stories": {
@@ -882,7 +960,7 @@ export default function() {
           contact: "Contact",
           rrhh_1: "Work with us",
           rrhh_2: "Send us your CV to",
-          rights: "All rights reserved © InAdvance Consulting Group 2021"
+          rights: "All rights reserved © InAdvance Consulting Group 2025"
         }
       },
       // SPANISH TEXTS
@@ -914,7 +992,7 @@ export default function() {
             title_1: "Qué ",
             title_2: "hacemos",
             text_1:
-              "A partir de la innovación y la transformación de los servicios de TII, <b class='mx-1 text-black font-primary'> ayudamos a las empresas a transformarse en negocios digitales eficientes, ágiles y robustos.</b> Ayudamos a las compañías e instituciones con una amplia gama de servicios desde la estrategia hasta la implementación:",
+              "A partir de la innovación y la transformación de los servicios de TI, <b class='mx-1 text-black font-primary'> ayudamos a las empresas a transformarse en negocios digitales eficientes, ágiles y robustos.</b> Ayudamos a las compañías e instituciones con una amplia gama de servicios desde la estrategia hasta la implementación:",
             items: [
               {
                 icon: "/icons/cog_icon.svg",
@@ -943,7 +1021,35 @@ export default function() {
                 title: "Ciberseguridad",
                 text:
                   "Aseguramos los activos de información y tecnología en el ámbito de los nuevos negocios digitales."
-              }
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Gestión y Entrega de Soluciones",
+                text:
+                  "Desarrollamos, lideramos y gestionamos proyectos de transformaciones de negocio, a partir de la implementación de soluciones tecnológicas de vanguardia."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "IA + Data & Analítica",
+                text:
+                  "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Eficiencia Operativa & Gestión del Cambio",
+                text:
+                  "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambio, desde el rediseño hasta la implementación, acelerando la adopción de un nuevo mindset para enfrentar los desafíos del entorno."
+              },
+              {
+                icon: "/icons/tsd_icon.png",
+                delay: 1400,
+                title: "Soluciones de Industria",
+                text:
+                  "Lideramos la implementación de soluciones world-class de industria para diferentes verticales de negocio."
+              },
             ]
           },
           "why-us": {
@@ -1019,8 +1125,9 @@ export default function() {
             ]
           },
           executive_team: {
-            title_1: "Nuestro",
-            title_2: "equipo ejecutivo",
+            title_1:
+              "Contamos con un equipo multi-disciplinario de +50 profesionales en la región, liderado por",
+            title_2: "nuestro equipo ejecutivo:",
             members: [
               {
                 image: "/images/home/team/member_adrian.png",
@@ -1328,7 +1435,7 @@ export default function() {
             },
             {
               reverse: true,
-              title: "Gestión y entrega de solcuiones",
+              title: "Gestión y Entrega de Soluciones",
               img_url: "/images/what_we_do/items_tsd.png",
               icon_url: "/icons/tsd_icon.png",
               description:
@@ -1340,7 +1447,54 @@ export default function() {
                 "Revisión y QA de proyectos de Transformación​",
                 "Implementación de Modelos Ágiles, Bimodal, CloudOps y DevSecOps"
               ]
-            }
+            },
+            {
+              reverse: false,
+              title: "IA + Data Analítica",
+              img_url: "/images/what_we_do/items_ai.jpg",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial. Combinamos capacidades avanzadas en IA, analítica (análisis) y gestión de datos para acelerar decisiones, automatizar procesos y habilitar nuevas formas de crear valor.",
+              bullets: [
+                "Diseño de arquitecturas para IA Generativa, Machine Learning, Analítica e Ingeniería de Datos",
+                "Definición e implementación del modelo de Gobierno  de Datos de la organización",
+                "Estrategias de adopción de IA y datos para habilitar la transformación digital",
+                "Desarrollo de capacidades ejecutivas para identificar oportunidades y liderar con IA",
+                "Diseño y ejecución de pruebas de concepto (PoCs) y proyectos de IA, analítica y gestión de datos",
+                "Células de desarrollo especializadas en soluciones de Inteligencia Artificial",
+                "Consultoría para la adopción responsable y efectiva de IA en toda la organización"
+              ]
+            },
+            {
+              reverse: true,
+              title: "Eficiencia Operativa & Gestión del Cambio",
+              img_url: "/images/what_we_do/items_eficiencia.png",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambios con una mirada sistémica, desde el rediseño de los procesos hasta la implementación de prácticas que aceleren la adopción de un nuevo mindset capaz de enfrentar los desafíos del entorno.",
+              bullets: [
+                "Transformamos modelos operativos, gobiernos y culturas organizaciones con foco en la agilidad organizacional",
+                "Potenciamos a través del liderazgo, las capacidades adaptativas necesarias para que los cambios sean sostenibles",
+                "Implementamos oficinas de transformación, capaces de gestionar carteras de proyectos orientados a redefinir y transformar negocios",
+                "Rediseñamos procesos, haciendo uso de nuevas tecnologías, orientados hacia la búsqueda de eficiencia y digitalización",
+                "Desarrollamos capacidades y destrezas organizacionales que apalanquen el cumplimiento de objetivos"
+              ]
+            },
+            {
+              reverse: false,
+              title: "Soluciones de Industria",
+              img_url: "/images/what_we_do/items_soluciones.png",
+              icon_url: "/icons/ai_icon.png",
+              description:
+                "<b>Lideramos la implementación de soluciones world-class</b> de industria para diferentes verticales de negocio",
+              bullets: [
+                "Procesos de selección de software o gap-analysis",
+                "Proyectos de implementación de soluciones de industria",
+                "Servicios de mantenimiento y evolución de soluciones implementadas",
+                "Capacitación y evolución del talento para facilitar la adopción de nuevas soluciones",
+                "Staff-Augmentation"
+              ]
+            },
           ]
         },
         "success-stories": {
@@ -1781,7 +1935,7 @@ export default function() {
           rrhh_1: "Trabaja con nosotros",
           rrhh_2: "Envíanos tu CV a:",
           rights:
-            "Todos los derechos reservados © InAdvance Consulting Group 2021"
+            "Todos los derechos reservados © InAdvance Consulting Group 2025"
         }
       }
     }
