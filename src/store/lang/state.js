@@ -78,14 +78,14 @@ export default function () {
               {
                 icon: "/icons/eficiencia_opp.svg",
                 delay: 1400,
-                title: "Eficiencia Operativa & Gestión del Cambio",
+                title: "Operational Efficiency & Change Management",
                 text:
                   "We act as a trusted partner in organizational transformation—analyzing change processes from redesign to execution, and accelerating the adoption of a new mindset to meet evolving business challenges."
               },
               {
                 icon: "/icons/soluciones_mercado.png",
                 delay: 1400,
-                title: "Soluciones de Industria",
+                title: "Industry Solutions",
                 text:
                   "We lead the implementation of world-class industry solutions across multiple business verticals."
               },

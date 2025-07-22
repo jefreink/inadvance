@@ -38,12 +38,12 @@
               />
               <div
                 v-html="item.title"
-                class="font-primary h-12 text-black font-black text-2xl pt-4 text-center my-auto card-title mt-auto"
+                class="font-primary h-13 text-black font-black text-2xl pt-4 text-center my-auto card-title mt-auto"
               >
                 {{ item.title }}
               </div>
               <div
-                class="font-primary h-32 text-primary text-base text-center py-6 md:py-0 mt-auto lg:leading-relaxed select-none md:mb-auto md:px-6"
+                class="font-primary h-33 text-primary text-base text-center py-6 md:py-0 mt-auto lg:leading-relaxed select-none md:mb-auto md:px-6"
               >
                 {{ item.text }}
               </div>
