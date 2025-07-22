@@ -41,7 +41,7 @@ export default function () {
                   "We bring the best in IT strategy to define and transform yourbusiness."
               },
               {
-                icon: "/icons/big_data_icon.svg",
+                icon: "/icons/arquitectura_cloud.svg",
                 delay: 800,
                 title: "Digital & <br /> IT Architecture",
                 text:
@@ -62,32 +62,32 @@ export default function () {
                   "We ensure end to end security of your digital business during the full development and production lifecycle."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/soluciones_mercado.png",
                 delay: 1400,
                 title: "Technology Solutions Delivery",
                 text:
                   "We develop, lead and manage business transformation projects, based on the implementation of cutting-edge technological solutions"
               },
-                            {
-                icon: "/icons/tsd_icon.png",
+              {
+                icon: "/icons/ia_analitica.svg",
                 delay: 1400,
                 title: "IA + Data & Analítica",
                 text:
-                  "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
+                  "We drive organizational transformation through the strategic use of data and artificial intelligence."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/eficiencia_opp.svg",
                 delay: 1400,
                 title: "Eficiencia Operativa & Gestión del Cambio",
                 text:
-                  "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambio, desde el rediseño hasta la implementación, acelerando la adopción de un nuevo mindset para enfrentar los desafíos del entorno."
+                  "We act as a trusted partner in organizational transformation—analyzing change processes from redesign to execution, and accelerating the adoption of a new mindset to meet evolving business challenges."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/soluciones_mercado.png",
                 delay: 1400,
                 title: "Soluciones de Industria",
                 text:
-                  "Lideramos la implementación de soluciones world-class de industria para diferentes verticales de negocio."
+                  "We lead the implementation of world-class industry solutions across multiple business verticals."
               },
             ]
           },
@@ -420,7 +420,7 @@ export default function () {
               reverse: false,
               title: "Digital &<br>IT Architecture",
               img_url: "/images/what_we_do/items_architecture.jpg",
-              icon_url: "/icons/big_data_icon.svg",
+              icon_url: "/icons/arquitectura_cloud.svg",
               description:
                 "We leverage existing IT assets and transform into the next generation IT architectures through the following services:",
               bullets: [
@@ -463,7 +463,7 @@ export default function () {
               reverse: true,
               title: "Technology solutions delivery",
               img_url: "/images/what_we_do/items_tsd.png",
-              icon_url: "/icons/tsd_icon.png",
+              icon_url: "/icons/tsd_icon.svg",
               description:
                 "We develop, lead and manage business transformation projects, based on the implementation of cutting-edge technological solutions",
               bullets: [
@@ -478,7 +478,7 @@ export default function () {
               reverse: false,
               title: "IA + Data Analytics",
               img_url: "/images/what_we_do/items_ai.jpg",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/ia_analitica.svg",
               description:
                 "We drive organizational transformation through the strategic use of data and artificial intelligence. We combine advanced capabilities in AI, analytics, and data management to accelerate decision-making, improve processes, and enable new ways of creating value.",
               bullets: [
@@ -495,7 +495,7 @@ export default function () {
               reverse: true,
               title: "Operational Efficiency & Change Management",
               img_url: "/images/what_we_do/items_eficiencia.png",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/eficiencia_opp.svg",
               description:
                 "As a strategic partner in organizational transformation, we apply a systems-thinking approach to change initiatives—covering everything from process redesign to the implementation of practices that foster the adoption of a forward-looking mindset capable of addressing evolving market challenges.",
               bullets: [
@@ -510,7 +510,7 @@ export default function () {
               reverse: false,
               title: "Industry Solutions",
               img_url: "/images/what_we_do/items_soluciones.png",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/soluciones_mercado.png",
               description:
                 "We lead the implementation of world-class industry solutions across diverse business verticals",
               bullets: [
@@ -1002,7 +1002,7 @@ export default function () {
                   "Ofrecemos lo mejor en estrategia de TI para definir y transformar su negocio."
               },
               {
-                icon: "/icons/big_data_icon.svg",
+                icon: "/icons/arquitectura_cloud.svg",
                 delay: 800,
                 title: "Arquitectura Digital <br /> & de TI",
                 text:
@@ -1023,28 +1023,28 @@ export default function () {
                   "Aseguramos los activos de información y tecnología en el ámbito de los nuevos negocios digitales."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/tsd_icon.svg",
                 delay: 1400,
                 title: "Gestión y Entrega de Soluciones",
                 text:
                   "Desarrollamos, lideramos y gestionamos proyectos de transformaciones de negocio, a partir de la implementación de soluciones tecnológicas de vanguardia."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/ia_analitica.svg",
                 delay: 1400,
                 title: "IA + Data & Analítica",
                 text:
                   "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/eficiencia_opp.svg",
                 delay: 1400,
                 title: "Eficiencia Operativa & Gestión del Cambio",
                 text:
                   "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambio, desde el rediseño hasta la implementación, acelerando la adopción de un nuevo mindset para enfrentar los desafíos del entorno."
               },
               {
-                icon: "/icons/tsd_icon.png",
+                icon: "/icons/soluciones_mercado.png",
                 delay: 1400,
                 title: "Soluciones de Industria",
                 text:
@@ -1394,7 +1394,7 @@ export default function () {
               reverse: false,
               title: "Arquitectura <br/> Digital & de TI",
               img_url: "/images/what_we_do/items_architecture.jpg",
-              icon_url: "/icons/big_data_icon.svg",
+              icon_url: "/icons/arquitectura_cloud.svg",
               description:
                 "Transformamos los servicios tecnológicos vigentes a partir de la implementación de arquitecturas integrales de última generación.",
               bullets: [
@@ -1437,7 +1437,7 @@ export default function () {
               reverse: true,
               title: "Gestión y Entrega de Soluciones",
               img_url: "/images/what_we_do/items_tsd.png",
-              icon_url: "/icons/tsd_icon.png",
+              icon_url: "/icons/tsd_icon.svg",
               description:
                 "Desarrollamos, lideramos y gestionamos proyectos de transformaciones de negocio, a partir de la implementación de soluciones tecnológicas de vanguardia",
               bullets: [
@@ -1452,7 +1452,7 @@ export default function () {
               reverse: false,
               title: "IA + Data Analítica",
               img_url: "/images/what_we_do/items_ai.jpg",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/ia_analitica.svg",
               description:
                 "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial. Combinamos capacidades avanzadas en IA, analítica (análisis) y gestión de datos para acelerar decisiones, automatizar procesos y habilitar nuevas formas de crear valor.",
               bullets: [
@@ -1469,7 +1469,7 @@ export default function () {
               reverse: true,
               title: "Eficiencia Operativa & Gestión del Cambio",
               img_url: "/images/what_we_do/items_eficiencia.png",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/eficiencia_opp.svg",
               description:
                 "Somos un aliado en la transformación de las organizaciones, analizando los procesos de cambios con una mirada sistémica, desde el rediseño de los procesos hasta la implementación de prácticas que aceleren la adopción de un nuevo mindset capaz de enfrentar los desafíos del entorno.",
               bullets: [
@@ -1484,7 +1484,7 @@ export default function () {
               reverse: false,
               title: "Soluciones de Industria",
               img_url: "/images/what_we_do/items_soluciones.png",
-              icon_url: "/icons/ai_icon.png",
+              icon_url: "/icons/soluciones_mercado.png",
               description:
                 "<b>Lideramos la implementación de soluciones world-class</b> de industria para diferentes verticales de negocio",
               bullets: [

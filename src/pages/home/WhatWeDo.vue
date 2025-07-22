@@ -33,7 +33,7 @@
             >
               <img
                 :src="item.icon"
-                class="py-4 h-24 w-24 object-contain"
+                class="py-4 h-25 w-25 object-contain"
                 alt=""
               />
               <div

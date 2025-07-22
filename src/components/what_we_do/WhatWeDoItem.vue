@@ -22,7 +22,7 @@
                     <img
                         :src="data.icon_url"
                         alt="item icon"
-                        class="h-14 w-14 object-contain"
+                        class="h-15 w-15 object-contain"
                     />
                 </div>
                 <h2
