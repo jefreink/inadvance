@@ -225,7 +225,7 @@ export default function () {
                 name: "Johan Talla",
                 delay: 1500,
                 charge: "Managing Director",
-                region: "Peru",
+                region: "Perú",
                 linkedin: "https://www.linkedin.com/in/johantalla/"
               }
             ]
@@ -260,7 +260,7 @@ export default function () {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto4.jpg",
                 title:
-                  "Leading Insurance Company in Peru, part of the country's largest Financial Group",
+                  "Leading Insurance Company in Perú, part of the country's largest Financial Group",
                 text: "Enterprise Architecture Advisory Services."
               },
               {
@@ -274,7 +274,7 @@ export default function () {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto5.jpg",
                 title:
-                  "Leading Private Bank in Peru, part of a Financial Services Group",
+                  "Leading Private Bank in Perú, part of a Financial Services Group",
                 text:
                   "Redesign of the technology services operating model and negotation of outsourcing contract."
               },
