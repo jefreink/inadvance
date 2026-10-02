@@ -1358,6 +1358,21 @@ export default function () {
                   "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero con presencia en varias regiones",
                 text:
                   "Redefinición de nuevo modelo de entrega de servicios de Tecnología y Operación."
+              },
+              {
+                img_url:
+                  "/images/success_stories/compressed_items/storyphoto21.jpg",
+                title:
+                  "Importante compañía de seguros en Perú perteneciente al Grupo Financiero más importante del país",
+                text:
+                  "Redefinición de nuevo modelo de entrega de servicios de Tecnología y Operación."
+              },
+              {
+                img_url:
+                  "/images/success_stories/compressed_items/storyphoto22.jpg",
+                title: "Seguros Vida y Complementarios de Salud y Ahorro",
+                text:
+                  "Oficina de Proyecto (PMO) para la fusión por adquisión de otra compañía del sector financiero local. Gestión del Plan de Fusión de TI, gestión de riesgos y problemas durante el proceso."
               }
             ]
           },
