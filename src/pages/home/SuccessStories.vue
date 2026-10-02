@@ -27,7 +27,7 @@
           v-scroll-reveal="{ delay: 500 }"
         >
           <q-carousel-slide
-            v-for="(slide, slideIndex) in stories.length / 4"
+            v-for="(slide, slideIndex) in Math.ceil(stories.length / 4)"
             :key="slideIndex"
             :name="slideIndex"
             class=""

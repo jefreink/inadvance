@@ -179,7 +179,7 @@ export default {
           number: "+51 99 3482981"
         },
         {
-          country: "USA",
+          country: "United States",
           address: "1395 Brickell Ave STE 800",
           city: "Miami FL 33131 US",
           number: ""

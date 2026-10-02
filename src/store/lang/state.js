@@ -71,7 +71,7 @@ export default function () {
               {
                 icon: "/icons/ia_analitica.svg",
                 delay: 1400,
-                title: "IA + Data & Analítica",
+                title: "Artificial Intelligence + DATA",
                 text:
                   "We drive organizational transformation through the strategic use of data and artificial intelligence."
               },
@@ -225,7 +225,7 @@ export default function () {
                 name: "Johan Talla",
                 delay: 1500,
                 charge: "Managing Director",
-                region: "Perú",
+                region: "Peru",
                 linkedin: "https://www.linkedin.com/in/johantalla/"
               }
             ]
@@ -237,146 +237,165 @@ export default function () {
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto1.jpg",
-                title: "Banco Sector Financiero",
+                title: "Financial Institution (Bank)",
                 text:
-                  "Consultoría para Gestión del Cambio Tecnológico en la implementación de un nuevo Core Bancario (Cuentas Corrientes, Cajas, Créditos, Tarjetas, etc.). Coordinación de preparación de procesos, tecnología y personas para el nuevo sistema y coordinación de la Puesta en Marcha y simularos de salida en Producción."
+                  "Technology Change Management advisory for the implementation of a new Core Banking platform (Checking Accounts, Savings Accounts, Loans, Credit Cards, and related services). Coordination of process, technology, and organizational readiness activities, including production maturity assessments and go-live simulations."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto2.jpg",
                 title:
-                  "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero",
-                text: "Nuevo modelo operativo para el área de TI"
+                  "Leading Private Bank in Ecuador, part of a Financial Services Group",
+                text: "Design of a new IT operating model."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto3.jpg",
                 title:
-                  "Entidad pública dedicada a la administración de la Seguridad Social de Argentina",
+                  "Argentine Public Institution Responsible for Social Security Administration",
                 text:
-                  "Definición nuevo modelo organizativo para la Dirección de TI"
+                  "Definition of new organizational model for the IT Leadership."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto4.jpg",
                 title:
-                  "Importante compañía de seguros en Perú perteneciente al Grupo Financiero más importante del país",
-                text: "Advisory en Arquitectura Empresarial"
+                  "Leading Insurance Company in Peru, part of the country's largest Financial Group",
+                text: "Enterprise Architecture Advisory Services."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto14.jpg",
-                title: "Banco Privado de Argentina",
-                text: "Asesoriamiento al Directorio en el Comité de TI"
+                title: "Private Bank – Argentina",
+                text:
+                  "Strategic advisory services to the IT Board of Directors on IT."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto5.jpg",
                 title:
-                  "Importante Banco Privado en Perú perteneciente a Grupo Financiero",
+                  "Leading Private Bank in Peru, part of a Financial Services Group",
                 text:
-                  "Redefinición del modelo de gestión de servicios tecnológicos y negociación de contrato de outsourcing"
+                  "Redesign of the technology services operating model and negotation of outsourcing contract."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto6.jpg",
-                title: "Hospital Privado",
-                text: "Nuevo modelo operativo para el área de TI"
+                title: "Private Healthcare Institution",
+                text: "Design of a new IT operating model."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto17.jpg",
-                title: "Retail Regional Arg-Chi-Per-Col-Mex",
+                title:
+                  "Regional Retail Organization (Argentina, Chile, Peru, Colombia, Mexico)",
                 text:
-                  "Transformación de procesos de TI (Gestión de Incidencias, Problemas, Cambios, Configuración, Activos, Discovery CMDB). Implementación sobre Remedy - BMC."
+                  "IT process transformation covering Incident Management, Change Management, Configuration Management, Asset Management, and CMDB Discovery. Implementation using BMC Remedy."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto7.jpg",
-                title: "Importante empresa de consumo masivo en Perú",
+                title: "Leading Consumer Goods Company in Peru",
                 text:
-                  "Definición e Implementación del Roadmap de la Arquitectura Empresarial, desde la perspectiva de Framework y Gobierno"
+                  "Definition and implementation of the Enterprise Architecture roadmap, including governance and framework design."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto8.jpg",
                 title:
-                  "Custodia Títulos Financieros de Bolsa de Comercio, Fondos de Inversión y Pensiones",
+                  "Financial Securities Custodian Serving Stock Exchange, Investment Fund, and Pension Fund Markets",
                 text:
-                  "Oficina de Proyecto (PMO) para la gestión del cambio de core (Custome Made a sistema NASAQ). Coordinación del Plan consolidado del Proyecto para todos los ambitos involucrados (diseño, construcción, pruebas, procesos, infraestructura, seguridad y puesta en Marcha)"
+                  "Project Management Office (PMO) for a core platform transformation, migrating from a custom-built solution to a NASDAQ platform. Coordination of the integrated project plan across design, development, testing, business processes, infrastructure, cybersecurity, and go-live activities."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto12.jpg",
-                title: "Banco Privado de Argentina",
+                title: "Private Bank – Argentina",
                 text:
-                  "Revisión del área de Tecnología y definición de proceso de transformación"
+                  "Assessment of the Technology organization and definition of its transformation roadmap."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto10.jpg",
                 title:
-                  "Grupo multinacional con head-quarters en Alemania dedicado a la elaboración de té",
-                text: "Definición e implementación de estrategia de ERP"
+                  "Multinational Consumer Goods Group headquartered in Germany, specialized in tea production and distribution",
+                text:
+                  "Definition and implementation of the organization's ERP strategy."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto11.jpg",
                 title:
-                  "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero con presencia en varias regiones",
+                  "Leading Private Bank in Ecuador, part of a Regional Financial Services Group",
                 text:
-                  "Definición de la estrategia y arquitectura del DRP del Banco"
+                  "Definition of the bank's Disaster Recovery Strategy and Architecture."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto1.jpg",
-                title: "Retail Regional Arg-Chi-Per-Col-Mex",
+                title:
+                  "Regional Retail Organization (Argentina, Chile, Peru, Colombia, Mexico)",
                 text:
-                  "Transformación de procesos de TI (Gestión de Incidencias, Problemas, Cambios, Configuración, Activos, Discovery CMDB). Implementación sobre Remedy - BMC"
+                  "Transformation of IT service management processes, including Incidents, Change, Configuration, Asset Management, and CMDB Discovery. Implementation based on the BMC Remedy platform."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto13.jpg",
                 title:
-                  "Corredora de Bolsa y Fondos Mutuos nacionales e Internacionales Sector Financiero",
+                  "National and International Brokerage Firm and Mutual Fund Manager – Financial Services Sector",
                 text:
-                  "Plan Estratégico de TI y Coordinación de Plan de Transformación Digital"
+                  "IT Strategic Planning and coordination of the Digital Transformation roadmap."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto3.jpg",
-                title: "Importante empresa de consumo masivo en Perú",
+                title: "Leading Consumer Goods Company in Peru",
                 text:
-                  "Realizar calidad de código a componentes SAP y No-SAP, y definir esquema de Gobierno"
+                  "SAP and non-SAP code quality assessment and governance framework definition."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto14.jpg",
-                title: "Seguros Vida y Complementarios de Salud y Ahorro",
+                title: "Life, Health, and Savings Insurance Provider",
                 text:
-                  "Oficina de Proyecto (PMO) para la gestión del cambio de su nuevo Core para seguros Individuales"
+                  "Project Management Office (PMO) supporting the implementation of a new core platform for individual insurance products."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto15.jpg",
-                title: "Retail Segmento construcción y Hogar",
+                title: "Regional Home Construction Retailer",
                 text:
-                  "Diseño de procesos TI (Gestión de Problemas, Cambios, Capacidad)"
+                  "Design of IT service management processes, including Problem Management, Change Management, and Capacity Management."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto16.jpg",
-                title: "Administradora de Fondos de Pensión Chile",
+                title: "Pension Fund Administrator – Chile",
                 text:
-                  "Transformación de Modelo Operativo de TI + Roadmap de Arquitectura Empresarial (Análisis y Diseño de rodmap para cambios en las áreas de Infraestructura, Operaciones, Arquitectura Empresarial)."
+                  "IT Operating Model Transformation and Enterprise Architecture Roadmap. Assessment and design of modernization initiatives across Infrastructure, Operations, and Enterprise Architecture domains."
               },
               {
                 img_url:
                   "/images/success_stories/compressed_items/storyphoto17.jpg",
                 title:
-                  "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero con presencia en varias regiones",
+                  "Leading Private Bank in Ecuador, part of a Regional Financial Services Group",
                 text:
-                  "Redefinición de nuevo modelo de entrega de servicios de Tecnología y Operación."
+                  "Redesign of the Technology and Operations service delivery model."
+              },
+              {
+                img_url:
+                  "/images/success_stories/compressed_items/storyphoto21.jpg",
+                title:
+                  "Leading Insurance Company in Peru, part of the country's largest Financial Group",
+                text:
+                  "Redesign of the Technology and Operations service delivery model."
+              },
+              {
+                img_url:
+                  "/images/success_stories/compressed_items/storyphoto22.jpg",
+                title: "Life, Health, and Savings Insurance Provider",
+                text:
+                  "Project Management Office (PMO) supporting the integration of an acquired financial services organization. Management of the IT integration roadmap, including risk and issue management throughout the merger process."
               }
             ]
           },
@@ -387,10 +406,9 @@ export default function () {
               "/images/home/partners/itr.png",
               "/images/home/partners/rockingdata.png",
               "/images/home/partners/uniqs.png",
-              "/images/home/partners/alert.png",
-              "/images/home/partners/miro.png",
               "/images/home/partners/bmc.png",
-              "/images/home/partners/globalbooster.png"
+              "/images/home/partners/ayi-group-logo.png",
+              "/images/home/partners/deeptics-logo.png"
             ]
           }
         },
@@ -476,7 +494,7 @@ export default function () {
             },
             {
               reverse: false,
-              title: "IA + Data Analytics",
+              title: "Artificial Intelligence + DATA",
               img_url: "/images/what_we_do/items_ai.jpg",
               icon_url: "/icons/ia_analitica.svg",
               description:
@@ -530,423 +548,426 @@ export default function () {
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto1.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "IT Strategy & Transformation",
               order: 0,
-              title: "Banco Sector Financiero",
+              title: "Financial Institution (Bank)",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Consultoría para Gestión del Cambio Tecnológico en la implementación de un nuevo Core Bancario (Cuentas Corrientes, Cajas, Créditos, Tarjetas, etc.). Coordinación de preparación de procesos, tecnología y personas para el nuevo sistema y coordinación de la Puesta en Marcha y simularos de salida en Producción."
+                    "Technology Change Management advisory for the implementation of a new Core Banking platform (Checking Accounts, Savings Accounts, Loans, Credit Cards, and related services). Coordination of process, technology, and organizational readiness activities, including production maturity assessments and go-live simulations."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Implementación del Cambio de Core en los plazos planificados y sin impacto a los clientes finales. Flexibilidad para implamentación de nuevos productos y servicios mejorando el time to market."
+                    "Successful core banking transformation delivered within planned timelines and without disruption to customers. Increased agility for launching new products and services, significantly improving time-to-market."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto2.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "Digital Strategy & IT Transformation",
               order: 1,
               title:
-                "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero",
+                "Leading Private Bank in Ecuador, part of a Financial Services Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
-                  text: "Nuevo modelo operativo para el área de TI"
+                  title: "Scope of Services",
+                  text: "Design of a new IT operating model."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Identificación de puntos de mejora para toda el área de TI, definición de un nuevo operativo y organizativo para todo el área y desarrollo de un plan táctico de mejoras para realizar la transformación definida."
+                    "Improvements identification across entire IT area, definition of a new operating and organizational model, and development of a tactical transformation roadmap to enable its implementation."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto3.jpg",
-              heading: "Digital & Arquitectura TI",
+              heading: "Digital & IT Architecture",
               order: 2,
               title:
-                "Entidad pública dedicada a la administración de la Seguridad Social de Argentina",
+                "Argentine Public Institution Responsible for Social Security Administration",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Definición nuevo modelo organizativo para la Dirección de TI"
+                    "Definition of new organizational model for the IT Leadership."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Revisión del modelo de gestión vigente y definición del futuro modelo organizativo del área de TI. Confirmación del plan de acciones y esfuerzo requerido para llegar al modelo propuesto."
+                    "Existing operating model assessment and design of the future-state IT organizational structure. Transformation roadmap validation, including actions and implementation effort required to achieve the target model."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto4.jpg",
-              heading: "Arquitectura Empresarial y de TI",
+              heading: "Enterprise and IT Architecture",
               order: 3,
               title:
-                "Importante compañía de seguros en Perú perteneciente al Grupo Financiero más importante del país",
+                "Leading Insurance Company in Peru, part of the country's largest Financial Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
-                  text: "Advisory en Arquitectura Empresarial"
+                  title: "Scope of Services",
+                  text: "Enterprise Architecture Advisory Services."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Análisis y revisión de los componentes arquitectónicos de Pacífico desde el foco tecnológico y gobierno, junto a sus lineamientos y estándares que conforman la visión TI en sus diversas vistas (integración, infraestructura/cloud, datos, seguridad), así como la confirmación de componentes de arquitectura para sus proyectos más relevantes."
+                    "Assessment and review of enterprise architecture capabilities from both technology and governance perspectives, including architecture principles, standards, and target-state vision across integration, infrastructure/cloud, data, and cybersecurity domains. Validation of architectural components supporting the organization’s most strategic initiatives."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto5.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "Digital Strategy & IT Transformation",
               order: 4,
-              title: "Banco Privado de Argentina",
+              title: "Private Bank – Argentina",
               sections: [
                 {
-                  title: "Alcance del servicio",
-                  text: "Asesoriamiento al Directorio en el Comité de TI"
+                  title: "Scope of Services",
+                  text: "Strategic advisory services to the IT Board of Directors on IT."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Revisión de la gestión y resultados del área de TI y servicio de asesoría a los Directores del Banco.<br/>Apoyo en la definición de la estrategia tecnológica del Banco y en la ejecución delproceso de transformación."
+                    "Independent assessment of IT performance, governance, and operational results, providing strategic advisory support to Board members. Guidance in defining the bank’s technology strategy and supporting the execution of its transformation agenda."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto6.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "Digital Strategy & IT Transformation",
               order: 5,
               title:
-                "Importante Banco Privado en Perú perteneciente a Grupo Financiero",
+                "Leading Private Bank in Peru, part of a Financial Services Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Redefinición del modelo de gestión de servicios tecnológicos y negociación de contrato de outsourcing"
+                    "Redesign of the technology services operating model and negotation of outsourcing contract."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Definición de la estrategia de sourcing y renegociación de los contratos de outsourcing vigentes; redefinición del nuevo modelo de servicios y las nuevas capacidades internas requeridas por el Banco. Incluye también la definición y el acompañamiento en el proceso de transición y transformación no solo de su organización interna de TI sino también del servicio de outsourcing (donde también se acompañó al Banco en la definición y renegociación)."
+                    "Definition of the sourcing strategy and renegotiation of existing outsourcing agreements. Design of a new technology services model and identification of the internal capabilities required to support it. The engagement also included transition planning and transformation support for both the internal IT organization and outsourced service operations."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto7.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "Digital Strategy & IT Transformation",
               order: 6,
-              title: "Hospital Privado",
+              title: "Private Healthcare Institution",
               sections: [
                 {
-                  title: "Alcance del servicio",
-                  text: "Nuevo modelo operativo para el área de TI"
+                  title: "Scope of Services",
+                  text: "Design of a new IT operating model."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Identificación de puntos de mejora para toda el área de TI, definición de un nuevo operativo y organizativo para todo el área y desarrollo de un plan táctico de mejoras para realizar la transformación definida."
+                    "Identification of improvement opportunities across the IT organization, design of a future-state operating and organizational model, and development of a tactical transformation plan to enable its implementation."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto8.jpg",
-              heading: "Estrategia & Transformación de TI",
+              heading: "Digital Strategy & IT Transformation",
               order: 7,
-              title: "Retail Regional Arg-Chi-Per-Col-Mex",
+              title:
+                "Regional Retail Organization (Argentina, Chile, Peru, Colombia, Mexico)",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Transformación de procesos de TI (Gestión de Incidencias, Problemas, Cambios, Configuración, Activos, Discovery CMDB). Implementación sobre Remedy - BMC."
+                    "IT process transformation covering Incident Management, Change Management, Configuration Management, Asset Management, and CMDB Discovery. Implementation using BMC Remedy."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Automatización de procesos, descubrimiento de activos (network, BBDD, SSOO, Relaciones entre componentes y aplicaciones). 10.000 usuarios, 8.000 CIs"
+                    "Automation of key IT service management processes and implementation of enterprise asset discovery capabilities, including networks, databases, operating systems, and application dependency mapping. Solution supporting over 10,000 users and 8,000 configuration items (CIs)."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto9.jpg",
-              heading: "Arquitectura Empresarial y de TI",
+              heading: "Enterprise and IT Architecture",
               order: 8,
-              title: "Importante empresa de consumo masivo en Perú",
+              title: "Leading Consumer Goods Company in Peru",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Definición e Implementación del Roadmap de la Arquitectura Empresarial, desde la perspectiva de Framework y Gobierno"
+                    "Definition and implementation of the Enterprise Architecture roadmap, including governance and framework design."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Definición del blueprint tecnológico futuro para Alicorp, desde la vista aplicativa hasta las tecnológicas (software, datos, integración, infraestructura, seguridad); así como su enfoque de gobierno considerando procesos, métricas, roles/responsabilidades, organización y activos. Todo ello enmarcado en un roadmap de implementación a corto y mediano plazo que permita tangibilizar sus desafíos de arquitectura empresarial."
+                    "Development of the future-state technology blueprint covering applications, software platforms, data, integration, infrastructure, and cybersecurity domains. Design of the governance framework, including processes, metrics, roles and responsibilities, organizational structure, and architectural assets. Delivery of a short- and medium-term implementation roadmap to support the organization's enterprise architecture objectives."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto10.jpg",
-              heading: "Transformación de Infraestructura",
+              heading: "Infrastructure Transformation",
               order: 9,
               title:
-                "Custodia Títulos Financieros de Bolsa de Comercio, Fondos de Inversión y Pensiones",
+                "Financial Securities Custodian Serving Stock Exchange, Investment Fund, and Pension Fund Markets",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Oficina de Proyecto (PMO) para la gestión del cambio de core (Custome Made a sistema NASAQ). Coordinación del Plan consolidado del Proyecto para todos los ambitos involucrados (diseño, construcción, pruebas, procesos, infraestructura, seguridad y puesta en Marcha)"
+                    "Project Management Office (PMO) for a core platform transformation, migrating from a custom-built solution to a NASDAQ platform. Coordination of the integrated project plan across design, development, testing, business processes, infrastructure, cybersecurity, and go-live activities."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Desarrollo del programa con la gestión de riesgos y problemas en los plazos acordados. Coordinación de tareas e interdependencias para cumplir con los objetivos."
+                    "Successful delivery of the transformation program within agreed timelines, including proactive risk and issue management. Coordination of complex dependencies and workstreams to ensure achievement of strategic project objectives."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto11.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 11,
-              title: "Banco Privado de Argentina",
+              heading: "IT Strategy and Operating Model",
+              order: 10,
+              title: "Private Bank – Argentina",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Revisión del área de Tecnología y definición de proceso de transformación"
+                    "Assessment of the Technology organization and definition of its transformation roadmap."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Revisión de los procesos existente en el área de TI y definición del futuro modelo de gestión de servicios tecnológicos del Banco. Identificación de puntos de mejora y definición del plan de cambio requerido"
+                    "Comprehensive review of IT processes and operating practices, leading to the design of the bank’s future technology service management model. Identification of improvement opportunities and development of the transformation roadmap required to achieve the target state."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto12.jpg",
-              heading: "Estrategia & Transformación de TI",
-              order: 12,
+              heading: "Digital Strategy & IT Transformation",
+              order: 11,
               title:
-                "Grupo multinacional con head-quarters en Alemania dedicado a la elaboración de té",
+                "Multinational Consumer Goods Group headquartered in Germany, specialized in tea production and distribution",
               sections: [
                 {
-                  title: "Alcance del servicio",
-                  text: "Definición e implementación de estrategia de ERP"
+                  title: "Scope of Services",
+                  text:
+                    "Definition and implementation of the organization's ERP strategy."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Análisis de la situación vigente en relación a los procesos operativos de la compañía, definición de la estrategia de ERP e implementación de la solución tecnológica seleccionada."
+                    "Assessment of the company's current operational processes, definition of the ERP strategy, and implementation of the selected enterprise solution to support future business growth and operational efficiency."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto13.jpg",
-              heading: "Transformación de Infraestructura",
-              order: 13,
+              heading: "Infrastructure Transformation",
+              order: 12,
               title:
-                "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero con presencia en varias regiones",
+                "Leading Private Bank in Ecuador, part of a Regional Financial Services Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Definición de la estrategia y arquitectura del DRP del Banco"
+                    "Definition of the bank's Disaster Recovery Strategy and Architecture."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Apoyo en la definición de la estrategia de recuperación requerida y revisión de la arquitectura de solución propuesta. Apoyo en la confirmación del plan de implementación requerido y su implementación."
+                    "Support in defining the target recovery strategy and reviewing the proposed disaster recovery architecture. Validation of the implementation roadmap and advisory support throughout the deployment process."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto14.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 14,
-              title: "Retail Regional Arg-Chi-Per-Col-Mex",
+              heading: "IT Strategy and Operating Model",
+              order: 13,
+              title:
+                "Regional Retail Organization (Argentina, Chile, Peru, Colombia, Mexico)",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Transformación de procesos de TI (Gestión de Incidencias, Problemas, Cambios, Configuración, Activos, Discovery CMDB). Implementación sobre Remedy - BMC"
+                    "Transformation of IT service management processes, including Incidents, Change, Configuration, Asset Management, and CMDB Discovery. Implementation based on the BMC Remedy platform."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Automatización de procesos, descubrimiento de activos (network, BBDD, SSOO, Relaciones entre componentes y aplicaciones). 10.000 usuarios, 8.000 CIs"
+                    "Process automation and enterprise-wide asset discovery capabilities covering networks, databases, operating systems, and application dependencies. Solution supporting more than 10,000 users and 8,000 configuration items (CIs)."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto15.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 15,
+              heading: "IT Strategy and Operating Model",
+              order: 14,
               title:
-                "Corredora de Bolsa y Fondos Mutuos nacionales e Internacionales Sector Financiero",
+                "National and International Brokerage Firm and Mutual Fund Manager – Financial Services Sector",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Plan Estratégico de TI y Coordinación de Plan de Transformación Digital"
+                    "IT Strategic Planning and coordination of the Digital Transformation roadmap."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Mejoras UX y diseño web / mobile adaptando procesos y personas para los desafíos de la transformación digital. Aumento de la contratación de productos y servicios en línea, mejoramiento de activos tecnológicos para mejor experiencia de clientes"
+                    "Redesign of customer experience capabilities across web and mobile channels, aligning processes, technology, and people to support digital transformation objectives. Increased adoption of digital products and online services while strengthening technology assets to enhance customer experience and engagement."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto16.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 16,
-              title: "Importante empresa de consumo masivo en Perú",
+              heading: "IT Strategy and Operating Model",
+              order: 15,
+              title: "Leading Consumer Goods Company in Peru",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Realizar calidad de código a componentes SAP y No-SAP, y definir esquema de Gobierno"
+                    "SAP and non-SAP code quality assessment and governance framework definition."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Implementación y ejecución de calidad de código para componentes SAP y No-SAP mediante el uso de herramientas Top que son parte de su ecosistema (SAP ATC y SonarQube), además de definir los procesos, roles, esquema de gobierno y arquitectura de herramientas para que la práctica pueda evolucionar en la compañía."
+                    "Implementation of an enterprise-wide code quality practice across SAP and non-SAP environments using industry-leading tools such as SAP ATC and SonarQube. Definition of governance processes, organizational roles, operating procedures, and supporting architecture to ensure long-term sustainability and continuous improvement of the capability."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto17.jpg",
-              heading: "Arquitectura Empresarial y de TI",
-              order: 17,
-              title: "Seguros Vida y Complementarios de Salud y Ahorro",
+              heading: "Enterprise and IT Architecture",
+              order: 16,
+              title: "Life, Health, and Savings Insurance Provider",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Oficina de Proyecto (PMO) para la gestión del cambio de su nuevo Core para seguros Individuales"
+                    "Project Management Office (PMO) supporting the implementation of a new core platform for individual insurance products."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Implementación de Cambio de Core con una nueva plaforma flexible, movil y escalable, sin impacto a los clientes finales. Flexibilidad para implamentación de nuevos productos y servicios mejorando el time to market. Implemenación de servicios de Firma Digital y Botón de Pago en línea."
+                    "Successful deployment of a flexible, mobile-enabled, and scalable insurance core platform without disruption to policyholders. Enhanced agility for launching new products and services, significantly improving time-to-market. Implementation of Digital Signature capabilities and online payment services."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto18.jpg",
-              heading: "Estrategia & Transformación de TI",
-              order: 18,
-              title: "Retail Segmento construcción y Hogar",
+              heading: "Digital Strategy & IT Transformation",
+              order: 17,
+              title: "Regional Home Construction Retailer",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Diseño de procesos TI (Gestión de Problemas, Cambios, Capacidad)"
+                    "Design of IT service management processes, including Problem Management, Change Management, and Capacity Management."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Nuevos procesos diseñados y ajustados a las características del cliente."
+                    "Development and implementation of tailored IT processes aligned with the organization's operational requirements and business objectives."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto19.jpg",
-              heading: "Digital & Arquitectura TI",
-              order: 19,
-              title: "Administradora de Fondos de Pensión Chile",
+              heading: "Digital & IT Architecture",
+              order: 18,
+              title: "Pension Fund Administrator – Chile",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Transformación de Modelo Operativo de TI + Roadmap de Arquitectura Empresarial (Análisis y Diseño de rodmap para cambios en las áreas de Infraestructura, Operaciones, Arquitectura Empresarial)."
+                    "IT Operating Model Transformation and Enterprise Architecture Roadmap. Assessment and design of modernization initiatives across Infrastructure, Operations, and Enterprise Architecture domains."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Definición y Plan de Implementación del nuevo modelo, soporte para las funciones gerenciales hasta incorporación de nuevos perfiles y generación de roadmap de transformación."
+                    "Definition of the target operating model and implementation roadmap, including executive-level support throughout the transition process, onboarding of key capabilities, and development of the enterprise transformation roadmap."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto20.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 20,
+              heading: "IT Strategy and Operating Model",
+              order: 19,
               title:
-                "Importante Banco Privado en Ecuador perteneciente a Grupo Financiero con presencia en varias regiones",
+                "Leading Private Bank in Ecuador, part of a Regional Financial Services Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Redefinición de nuevo modelo de entrega de servicios de Tecnología y Operación."
+                    "Redesign of the Technology and Operations service delivery model."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Análisis y redefinición de la estrategia de entrega de los servicios y procesos de Tecnología y Operaciones. Renegociación del contrato de servicios con proveedores actuales. Desarrollo y negociación del futuro contrato de servicios."
+                    "Assessment and redesign of the Technology and Operations service delivery strategy and supporting processes. Renegotiation of agreements with existing providers and development of the future-state service delivery framework, including contract design and commercial negotiations."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto21.jpg",
-              heading: "Arquitectura Empresarial y de TI",
-              order: 21,
+              heading: "Enterprise and IT Architecture",
+              order: 20,
               title:
-                "Importante compañía de seguros en Perú perteneciente al Grupo Financiero más importante del país",
+                "Leading Insurance Company in Peru, part of the country's largest Financial Group",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Redefinición de nuevo modelo de entrega de servicios de Tecnología y Operación."
+                    "Redesign of the Technology and Operations service delivery model."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Análisis y redefinición de la estrategia de entrega de los servicios y procesos de Tecnología y Operaciones. Renegociación del contrato de servicios con proveedores actuales. Desarrollo y negociación del futuro contrato de servicios."
+                    "Assessment and redesign of the Technology and Operations service delivery strategy and operating processes. Renegotiation of existing vendor agreements and development of the future-state sourcing and service delivery framework."
                 }
               ]
             },
             {
               img_url:
                 "/images/success_stories/compressed_items/storyphoto22.jpg",
-              heading: "Estrategia de TI y modelo operativo",
-              order: 22,
-              title: "Seguros Vida y Complementarios de Salud y Ahorro",
+              heading: "IT Strategy and Operating Model",
+              order: 21,
+              title: "Life, Health, and Savings Insurance Provider",
               sections: [
                 {
-                  title: "Alcance del servicio",
+                  title: "Scope of Services",
                   text:
-                    "Oficina de Proyecto (PMO) para la fusión por adquisión de otra compañía del sector financiero local. Gestión del Plan de Fusión de TI, gestión de riesgos y problemas durante el proceso."
+                    "Project Management Office (PMO) supporting the integration of an acquired financial services organization. Management of the IT integration roadmap, including risk and issue management throughout the merger process."
                 },
                 {
-                  title: "Logros Obtenidos",
+                  title: "Key Achievements",
                   text:
-                    "Implementación de la Fusión en los plazos planificados y sin impacto a los clientes finales. Identificación de oportunidades de mejora para las etapas posteriores a la fusión."
+                    "Successful execution of the merger within planned timelines and without impact to customers. Identification of post-integration optimization opportunities to further enhance operational efficiency and business value realization."
                 }
               ]
             }
@@ -1032,7 +1053,7 @@ export default function () {
               {
                 icon: "/icons/ia_analitica.svg",
                 delay: 1400,
-                title: "IA + Data & Analítica",
+                title: "Artificial Intelligence + DATA",
                 text:
                   "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
               },
@@ -1347,10 +1368,9 @@ export default function () {
               "/images/home/partners/itr.png",
               "/images/home/partners/rockingdata.png",
               "/images/home/partners/uniqs.png",
-              "/images/home/partners/alert.png",
-              "/images/home/partners/miro.png",
               "/images/home/partners/bmc.png",
-              "/images/home/partners/globalbooster.png"
+              "/images/home/partners/ayi-group-logo.png",
+              "/images/home/partners/deeptics-logo.png"
               // '/images/home/partners/widergy.png',
               // '/images/home/partners/ad.png',
               // '/images/home/partners/alert.png',
@@ -1450,7 +1470,7 @@ export default function () {
             },
             {
               reverse: false,
-              title: "IA + Data Analítica",
+              title: "Inteligencia Artificial + DATA",
               img_url: "/images/what_we_do/items_ai.jpg",
               icon_url: "/icons/ia_analitica.svg",
               description:
