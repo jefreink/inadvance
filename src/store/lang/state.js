@@ -38,7 +38,7 @@ export default function () {
                 delay: 600,
                 title: "IT Strategy & Transformation",
                 text:
-                  "We bring the best in IT strategy to define and transform yourbusiness."
+                  "We bring the best in IT strategy to define and transform your business."
               },
               {
                 icon: "/icons/arquitectura_cloud.svg",
@@ -1053,7 +1053,7 @@ export default function () {
               {
                 icon: "/icons/ia_analitica.svg",
                 delay: 1400,
-                title: "Artificial Intelligence + DATA",
+                title: "Inteligencia Artificial + DATA",
                 text:
                   "Impulsamos la transformación de las organizaciones a través del uso estratégico de datos e inteligencia artificial."
               },

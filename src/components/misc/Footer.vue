@@ -173,13 +173,13 @@ export default {
           number: "+56 9 9739 8451"
         },
         {
-          country: "Perú",
+          country: "Peru",
           address: "Jr. Loreto 205 Int 202,",
           city: "15024, La Molina, Lima",
           number: "+51 99 3482981"
         },
         {
-          country: "United States",
+          country: "USA",
           address: "1395 Brickell Ave STE 800",
           city: "Miami FL 33131 US",
           number: ""

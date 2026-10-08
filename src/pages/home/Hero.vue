@@ -39,7 +39,7 @@
                             <div
                                 class="flex flex-row font-primary-bold text-sm  text-white mt-2"
                             >
-                                Argentina • Chile • Colombia • Perú • United States
+                                Argentina • Chile • Colombia • Peru • USA
                             </div>
                         </div>
                         <div
