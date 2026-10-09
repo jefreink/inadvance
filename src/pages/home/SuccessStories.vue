@@ -64,7 +64,7 @@
                       id="read-more"
                       class="font-primary text-accent text-base font-bold"
                     >
-                      Read more
+                      {{ read_more }}
                     </div>
                     <q-icon
                       name="east"
@@ -101,6 +101,11 @@ export default {
     title_1() {
       return this.$store.getters["lang/texts"]["home"]["success_stories_home"][
         "title_1"
+      ];
+    },
+    read_more() {
+      return this.$store.getters["lang/texts"]["home"]["success_stories_home"][
+        "read_more"
       ];
     },
     title_2() {

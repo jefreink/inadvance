@@ -233,6 +233,7 @@ export default function () {
           success_stories_home: {
             title_1: "Success",
             title_2: "Stories",
+            read_more: "Read more",
             stories: [
               {
                 img_url:
@@ -1214,6 +1215,7 @@ export default function () {
           success_stories_home: {
             title_1: "Casos de",
             title_2: "éxito",
+            read_more: "Leer más",
             stories: [
               {
                 img_url:
