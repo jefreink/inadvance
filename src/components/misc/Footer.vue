@@ -180,8 +180,8 @@ export default {
         },
         {
           country: "USA",
-          address: "1395 Brickell Ave STE 800",
-          city: "Miami FL 33131 US",
+          address: "31850 Blossom Ln",
+          city: "Fulshear, TX 77423",
           number: ""
         },
       ]
